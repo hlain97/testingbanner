@@ -1,1 +1,1 @@
-alert('lmao')
+console.log('Whatchu looking at')
